@@ -1,1 +1,34 @@
+# The tentative stages of the project:
+1. Raw data (link: http://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv).
+2. Data Preprocessing.
+3. Cross-Validation (Training dataset 70% and Testing dataset 30%).
+4. Applying machine learning models (Random Forest - Naive Bayes - Decision Tree - Logistic Regression - K-Nearest Neighbour).
+5. Performance Evaluation (Determibe: Sensitivity, Specificity, and Accuracy Prediction).
+
+# Outline the content of the repository:
+1. Reading dataset file.
+2. Checking the dimensions of the dataset.
+3. Checking the data types for all attributes in the dataset.
+4. Checking the missing values for all attributes of the dataset.
+5. The summary of the dataset (mean- min- max- Standard deviation) for each attribute.
+6. Checking the scores of the response variable.
+7. Checking how many unique value does the target variabble 'quality' has.
+8. Plotting the frequency distribution of the wine quality using Bar chart.
+9. Plotting the frequency distribution of wine quality using Pie chart.
+10. The correlation between the target variables.
+11. Sorting the correlation values for all attributes with quality in ascending order. 
+12. Checking the correleation between all variables using Seaborn's pairplot.
+13. Histograms plots for all attributes.
+14. Plotting the boxplots for each column against the target variable (Quality) to check the Outliers.
+15. Creating a new categorical response variable ('Rating') from the existing 'quality' variable. 
+16. Plotting the boxplots for each attribute against the target variable (Rating) to check the Outliers.
+17. Dropping the quality column.
+18. checking the distribution of the dataset among the Rating values.
+19. Plotting the frequency distribution of wine Rating by using the Rating attribute.
+20. Removing the outliers.
+21. Split The independent variable X, and the reponse variable y.
+22. Standardization.
+23. Splitting the dataset to training and testing sets.
+24. Applying Machine learning model (Logistic Regression Model) (Determine : Sensitivity, Specificity, Accuracy, F1-Score)
+
 
