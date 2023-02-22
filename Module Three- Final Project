@@ -5,7 +5,7 @@
 4. Applying machine learning models (Random Forest - Naive Bayes - Decision Tree - Logistic Regression - K-Nearest Neighbour).
 5. Performance Evaluation (Determibe: Sensitivity, Specificity, and Accuracy Prediction).
 
-# Outline the content of the repository:
+#  The content of the repository:
 1. Reading dataset file.
 2. Checking the dimensions of the dataset.
 3. Checking the data types for all attributes in the dataset.
