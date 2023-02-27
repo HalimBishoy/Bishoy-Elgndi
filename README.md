@@ -1,7 +1,7 @@
 # Bishoy-Elgndi
 Project Module 3  CIND 820
 
-# The tentative stages of the project
+# The tentative stages of the project:
 1. Raw data (link: http://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv).
 2. Data Preprocessing.
 3. Cross-Validation (Training dataset 70% and Testing dataset 30%).
