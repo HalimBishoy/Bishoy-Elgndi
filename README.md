@@ -32,5 +32,5 @@ Project Module 3  CIND 820
 20. Split The independent variable X, and the response variable y.
 21. Standardization.
 22. Splitting the dataset to training and testing sets.
-23. Applying Machine learning model (Logistic Regression Model) (Determine : Sensitivity, Specificity, Accuracy, F1-Score)
+23. Applying Machine learning model (Logistic Regression Model- Decision Tree- Random Forest- Naive Bayes- K-Nearest Neigbour) (Determine : Sensitivity, Specificity, Accuracy, F1-Score)
 
