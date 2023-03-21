@@ -1,5 +1,5 @@
 # Bishoy-Elgndi
-Project Module 3  CIND 820
+Project Module 4  CIND 820
 
 # The tentative stages of the project:
 1. Raw data (link: http://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv).
